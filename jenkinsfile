@@ -1,4 +1,4 @@
-pipeline {
+kkpipeline {
   agent any
   stages {
     stage('test') {
@@ -8,4 +8,4 @@ pipeline {
     }
   }
 }
-#sssss
+#sssssjjj
